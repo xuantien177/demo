@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
-        <img src="https://ibb.co/yPj2kTP" height="100px">
+        <img src="[https://ibb.co/yPj2kTP](https://www.yiiframework.com/image/yii_logo_light.svg)" height="100px">
     </a>
     <h1 align="center">Yii 2 Framework</h1>
     <br>
